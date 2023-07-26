@@ -177,7 +177,7 @@ After students join the organization, you will need to gather them into a **team
 	- You can also use an existing account, but this may make it more difficult for instructors to identify you.
 
 ### Joining your classroom's GitHub Organization
-- Your primary interaction with the classroom will be through its GitHub Organization
+- Your primary interaction with the class will be through its GitHub Organization.
 	- This is where the course syllabus and/or other pertinent information will be located.
 	- This is also where you can find your copy of the repository for assignments you have accepted.
 
