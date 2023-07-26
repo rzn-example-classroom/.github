@@ -46,12 +46,13 @@ Immediately after the previous step in the previous section, GitHub Classroom wi
 3. Invite them to the GitHub *classroom* using the provided URL. Copy this link and share it with your TA, but do *not* post it publicly or provide it to students. They should not be able to gain administrator status solely through accessing this link, but an abundance of caution is always best.
 - If you no longer have your dashboard open, you can open it again from [classroom.github.com/classrooms](https://classroom.github.com/classrooms).
 
-![[GitHub Classroom Guide Fig1.png]]
+![GitHub Classroom Guide Fig1](https://github.com/rzn-example-classroom/.github/assets/16062019/7a1e959c-3ddd-43b0-b170-7947f5e491b4)
+
 
 ### Adding students to your Classroom
 If you still have the original window open from the classroom creation, it should next prompt you to add students. Similar to before, you can access a functionally identical panel from the `Students` tab on your classroom dashboard. There are two ways to add students: via an LMS or manually. Both methods are fairly straightforward - for the former, just follow the guided wizard, and for the latter, enter students manually or upload a file with names.
 
-![[GitHub Classroom Guide Fig2.png]]
+![GitHub Classroom Guide Fig2](https://github.com/rzn-example-classroom/.github/assets/16062019/7a77c139-6a76-420c-ab55-464e36524992)
 
 #### Notes about student access
 - **By default, when students accept an assignment for the first time, they are invited to the organization. They should join as soon as possible.** This will allow you to provide them with syllabus information and other documents via private repositories inside your organization.
@@ -59,14 +60,14 @@ If you still have the original window open from the classroom creation, it shoul
 	- If they visit `classroom.github.com`, they will not see your classroom listed - the website only lists classes that *they* have created.
 - The only pages related to `classroom.github.com` they can interact with are:
 	- the assignment invite links provided by you or your TAs.
-	- a page denoting the deadline of the assignment, if you set one (accessible via a button/link at the top of their repository's README file).
+	- a page denoting the deadline of the assignment, if you set one (accessible via a button/link at the top of their repository's `README` file).
 - All other interaction is done via the main GitHub webpage through your classroom organization and its repositories.
 - Student assignment repositories are *not* located in their individual GitHub accounts, but in the account of the organization with which the classroom is associated.
 
 ### Creating assignments
 Once you have imported your full student roster, you should then create an assignment for your students via the `Assignments` tab of your dashboard. The easiest way for a student to join on their end is by accepting an assignment, where they will be prompted to pick an indentifier (ID or name as declared in the roster). From there, the GitHub account they sign in with to accept the assignment will be linked to the appropriate entry in your classroom roster.
 
-![[GitHub Classroom Guide Fig3.png]]
+![GitHub Classroom Guide Fig3](https://github.com/rzn-example-classroom/.github/assets/16062019/f4294ff7-f853-4df3-9b96-c1b4ba2b8f57)
 
 #### Creating an assignment
 1. Under the `Assignments` tab in your classroom dashboard, click the `Create an assignment` button. 
